@@ -3,12 +3,12 @@
 # ECLP.Net
 Easy CommandLine Parser for .Net Standard
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/melharfi/ECLP/blob/master/LICENSE)
-[![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://github.com/melharfi/ECLP)
-![GitHub Release Date](https://img.shields.io/github/release-date/melharfi/ECLP?color=Green)
-[![GitHub Release](https://img.shields.io/github/v/release/melharfi/ECLP)](https://github.com/melharfi/ECLP/releases) 
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/melharfi/ECLP.Net/blob/master/LICENSE)
+[![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://github.com/melharfi/ECLP.Net)
+![GitHub Release Date](https://img.shields.io/github/release-date/melharfi/ECLP.Net?color=Green)
+[![GitHub Release](https://img.shields.io/github/v/release/melharfi/ECLP.Net)](https://github.com/melharfi/ECLP.Net/releases) 
 [![PayPal](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VN92ND2CDMX92)
-![GitHub language count](https://img.shields.io/github/languages/count/melharfi/ECLP?color=red)
+![GitHub language count](https://img.shields.io/github/languages/count/melharfi/ECLP.Net?color=red)
 
 This command Line parser use 2 ways of parsing.
 
@@ -38,7 +38,7 @@ Properties are separated by Pipe |, and sub property name and it's values are se
 ## *Tutorial*
 
 See tutorials section
-[https://melharfi.github.io/repos/ECLP/description.html](https://melharfi.github.io/repos/ECLP/description.html)
+[https://melharfi.github.io/repos/ECLP.Net/description.html](https://melharfi.github.io/repos/ECLP.Net/description.html)
 
 
 ## .Net Standard
